@@ -30,9 +30,9 @@ pipeline {
 
 	tools {
 
-		jdk "jdk12"
+		jdk "java.exe"
 
-		maven "M3"
+		maven "mvn.cmd"
 
 	}
 
